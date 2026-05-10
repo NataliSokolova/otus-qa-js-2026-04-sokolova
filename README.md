@@ -1,2 +1,4 @@
 Создано в рамках курса OTUS JavaScript QA Engineer
 Изменения для develop
+
+Содаю PR
