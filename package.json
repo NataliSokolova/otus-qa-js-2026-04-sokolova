@@ -1,0 +1,24 @@
+{
+  "name": "otus-aq-js-2026-04-sokolova",
+  "version": "1.0.0",
+  "description": "Создано в рамках курса OTUS JavaScript QA Engineer\r Изменения для develop",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^30.4.2",
+    "supertest": "^7.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataliSokolova/OTUS-AQ-JS-2026-04-Sokolova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataliSokolova/OTUS-AQ-JS-2026-04-Sokolova/issues"
+  },
+  "homepage": "https://github.com/NataliSokolova/OTUS-AQ-JS-2026-04-Sokolova#readme"
+}
